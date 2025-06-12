@@ -1,0 +1,17 @@
+Explanation of Libraries:
+
+numpy, pandas: Core data manipulation libraries.
+
+matplotlib, seaborn: For data visualization.
+
+scikit-learn (aka sklearn): Machine learning models and utilities.
+
+xgboost: Gradient boosting algorithm from XGBoost.
+
+lightgbm: Gradient boosting from LightGBM.
+
+catboost: Gradient boosting by Yandex, especially good with categorical data.
+
+imbalanced-learn (aka imblearn): Handling imbalanced datasets (SMOTE, ADASYN, etc.).
+
+tensorflow: Deep learning framework used here for defining neural networks.
